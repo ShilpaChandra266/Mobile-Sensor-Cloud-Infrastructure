@@ -10,7 +10,4 @@ MOBILE SENSOR
 
 MQTT Protocol is used to collect data from Mobile Sensors through AWS IoT.
 
-MQTT Protocol
-
-
 
